@@ -11,4 +11,4 @@ const guess = (userGuess, secret) => {
 
 
 
-console.log(guess(11, 10))
+console.log(guess(12, 10))
